@@ -1,0 +1,5 @@
+npm install tailwindcss @tailwindcss/vite
+
+npm list tailwindcss
+
+npm install @phosphor-icons/react
